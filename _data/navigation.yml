@@ -1,11 +1,7 @@
 main:
-  - title: "Splash"
-    url: /splash-page/
-  - title: "Posts"
+  - title: "Portfolio"
+    url: /portfolio/
+  - title: "Contact"
     url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
   - title: "About"
     url: /about/
