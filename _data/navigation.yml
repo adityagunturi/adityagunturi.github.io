@@ -1,6 +1,6 @@
 main:
   - title: "Splash"
-    url:/splash/
+    url: /splash-page/
   - title: "Posts"
     url: /posts/
   - title: "Categories"
