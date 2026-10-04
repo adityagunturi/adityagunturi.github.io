@@ -75,7 +75,7 @@ author:
       url: "https://"
     - label: "Linkedin"
       icon: "fab fa-linkedin"
-      url: "https://linkedin.com/aditya-gunturi"
+      url: "https://linkedin.com/in/aditya-gunturi"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/adityagunturi"
@@ -87,7 +87,7 @@ footer:
   links:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: "https://linkedin.com/aditya-gunturi"
+      url: "https://linkedin.com/in/aditya-gunturi"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/adityagunturi"
