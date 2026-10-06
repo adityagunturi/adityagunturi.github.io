@@ -8,9 +8,9 @@ sidebar:
   - title: "Role"
     image: http://placehold.it/350x250
     image_alt: "logo"
-    text: "Designer, Front-End Developer"
+    text: "Vehicle Dynamics Lead"
   - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+    text: "Design the motion of the Gaucho Racing FSAE Car. Lead the testing, tuning, and data analysis effort after manufacturing. Document, document, document."
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: assets/images/unsplash-gallery-image-1-th.jpg
