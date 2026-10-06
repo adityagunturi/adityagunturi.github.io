@@ -8,51 +8,51 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/unsplash-image-1.jpg
   actions:
-    - label: "Download"
-      url: "https://github.com/mmistakes/minimal-mistakes/"
+    - label: "About Me"
+      url: "about/"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
 intro: 
   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 feature_row:
-  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
-    btn_label: "Read More"
+  - image_path: assets/images/home-portfolio-image-1-th.jpg
+    alt: "portfolio image 1"
+    title: ""
+    excerpt: ""
+  - image_path: /assets/images/home-portfolio-image-2-th.jpg
+    image_caption: ""
+    alt: "portfolio image 2"
+    title: ""
+    excerpt: "Check out some of my work here!"
+    url: "portfolio/"
+    btn_label: "My Portfolio"
     btn_class: "btn--primary"
-  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: /assets/images/home-portfolio-image-3-th.jpg
+    title: ""
+    excerpt: ""
 feature_row2:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
+    title: "Current Projects"
+    excerpt: 'I try to limit my resume to completed work, but I have some other projects in the works as well.'
     url: "#test-link"
-    btn_label: "Read More"
+    btn_label: "Check them out here"
     btn_class: "btn--primary"
 feature_row3:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
+    title: "Just for Fun"
+    excerpt: 'A taste of what I like to do in my free time. Everyone needs hobbies!"
     url: "#test-link"
-    btn_label: "Read More"
+    btn_label: "Check it Out"
     btn_class: "btn--primary"
 feature_row4:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
-    title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-    url: "#test-link"
-    btn_label: "Read More"
+    title: "Get in Tough"
+    excerpt: 'I try to keep my GitHub updated with my code examples, but there are some things I choose not to post for various reasons. These include some class projects, as well as more detailed fits on data that is not mine to disclose. If you are interested in learning more about me, I would love to set up a meeting!'
+    url: "contact/"
+    btn_label: "Get in Touch"
     btn_class: "btn--primary"
 ---
 
