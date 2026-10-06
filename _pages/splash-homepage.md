@@ -40,12 +40,12 @@ feature_row2:
     url: "#test-link"
     btn_label: "Check them out here"
     btn_class: "btn--primary"
-    
+
 feature_row3:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
     title: "Just for Fun"
-    excerpt: 'A taste of what I like to do in my free time. Everyone needs hobbies!"
+    excerpt: "A taste of what I like to do in my free time. Everyone needs hobbies!"
     url: "#test-link"
     btn_label: "Check it Out"
     btn_class: "btn--primary"
@@ -53,8 +53,8 @@ feature_row3:
 feature_row4:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
-    title: "Get in Tough"
-    excerpt: 'I try to keep my GitHub updated with my code examples, but there are some things I choose not to post for various reasons. These include some class projects, as well as more detailed work on data that is not mine to disclose. If you are interested in learning more about me, I would love to set up a meeting!'
+    title: "Get in Touch"
+    excerpt: 'I try to keep my GitHub updated with my code examples, but there are some things I choose not to post for various reasons. These include some class projects, as well as more detailed work on data that is not mine to disclose. If you are interested to know more, I would love to set up a meeting!'
     url: "contact/"
     btn_label: "Get in Touch"
     btn_class: "btn--primary"
