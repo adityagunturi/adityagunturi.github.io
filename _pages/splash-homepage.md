@@ -50,7 +50,7 @@ feature_row4:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
     title: "Get in Tough"
-    excerpt: 'I try to keep my GitHub updated with my code examples, but there are some things I choose not to post for various reasons. These include some class projects, as well as more detailed fits on data that is not mine to disclose. If you are interested in learning more about me, I would love to set up a meeting!'
+    excerpt: 'I try to keep my GitHub updated with my code examples, but there are some things I choose not to post for various reasons. These include some class projects, as well as more detailed work on data that is not mine to disclose. If you are interested in learning more about me, I would love to set up a meeting!'
     url: "contact/"
     btn_label: "Get in Touch"
     btn_class: "btn--primary"
