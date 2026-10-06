@@ -22,14 +22,14 @@ feature_row:
   - image_path: /assets/images/home-portfolio-image-2-th.jpg
     image_caption: ""
     alt: ""
-    title: "Past Projects"
-    excerpt: "Check out some of my work here!"
+    title: ""
+    excerpt: ""
     url: "portfolio/"
     btn_label: "My Portfolio"
     btn_class: "btn--primary"
-  - image_path: /assets/images/home-portfolio-image-3-th.jpg
-    title: ""
-    excerpt: ""
+  - image_path: 
+    title: "Past Projects"
+    excerpt: "Check out some of my work here!"
 feature_row2:
   - image_path: /assets/images/home-current-work.jpg
     alt: "placeholder image 2"
