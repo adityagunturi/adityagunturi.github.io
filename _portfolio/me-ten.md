@@ -2,42 +2,34 @@
 title: "Screen Time Regulator"
 
 gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: /assets/images/unsplash-gallery-image-1-th.jpg
+  - url: /assets/images/me-ten-sketch.jpg
+    image_path: /assets/images/me-ten-sketch.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
+    title: "First Sketch"
+  - url: /assets/images/me-ten-cad.jpg
+    image_path: /assets/images/me-ten-cad.jpg
+    alt: "CAD Visualization"
     title: "Image 2 title caption"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+  - url: /assets/images/me-ten-all-parts.jpg
+    image_path: /assets/images/me-ten-all-parts.jpg
     alt: "placeholder image 3"
-    title: "Image 3 title caption"
+    title: "Final Parts"
 ---
 
-A chocolate chip cookie is a drop cookie that originated in the United States and features chocolate chips as its distinguishing ingredient.
+This device was designed for college students who struggle to complete readings without getting distracted by their phones. Many students simply place their screens in other locations when studying, but some expressed frustration over not being able to quickly clarify questions or access class discussion questions.
 
-The traditional recipe combines a dough composed of butter and both brown and white sugar with semi-sweet chocolate chips. Variations include recipes with other types of chocolate as well as additional ingredients such as nuts or oatmeal.
+The solution I created was a specialized interval timer. Users are able to use their phone for a preset short amount of time before an alarm sounds and it must be put away. They must then read a preset number of pages before being able to access the device again. This allows for students to ask questions at the end of each reading interval while still enforcing a time limit on phone use. Additionally, the absence of a "snooze" function forces users to adhere to the preset interval times.
 
-This recipe makes 4 dozen cookies.
-
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery caption="Snapshots of the Design Process" %}
 
 
-## Ingredients
+## Method
 
-* 2 1/4 cups all-purpose flour
-* 1 teaspoon baking soda
-* 1/2 teaspoon salt
-* 1 cup butter, softened and cut to pieces
-* 1 cup sugar
-* 1 cup light brown sugar, packed
-* 2 teaspoons vanilla extract
-* 2 large eggs
-* 2 cups semi-sweet chocolate chips
-* 1/2 teaspoon nutmeg (optional)
-* 1 cup chopped pecans or walnuts (optional)
+* Upon Initialization, two ambient light sensors set calibration levels for when the phone enclosure is open and no page is turned.
+* Alarm sounds, student places phone in enclosure and closes the lid.
+* Light sensor detects lid close, servo motor locks the enclosure.
+* Page-detecting light sensor identifies each time a page is turned.
+* Enclosure unlocks after enough pages have been turned.
 
 ## Directions
 
