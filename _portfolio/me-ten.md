@@ -31,10 +31,7 @@ The solution I created was a specialized interval timer. Users are able to use t
 * Page-detecting light sensor identifies each time a page is turned.
 * Enclosure unlocks after enough pages have been turned.
 
-## Directions
+## Challenges
 
-1. Preheat the oven to 350 F.
-2. In a medium bowl, whisk flour with baking soda, nutmeg and salt.
-3. In a large bowl, beat butter with sugar and brown sugar until creamy and light. Add vanilla and eggs, one at a time, and mix until incorporated.
-4. Gradually add dry mixture into the butter-sugar wet blend, mixing with a spatula until combined. Add chocolate chips and nuts until just mixed.
-5. Drop tablespoon-sized clumps onto un-greased cookie sheets. Bake for 8-12 minutes, or until pale brown. Allow to cool on the pan for a minute or three, then transfer cookies to a wire rack to finish cooling.
+* How does the device account for ambient light noise when detecting pages accurately? --> Added a low-pass filtering capacitor to solve the issue with hardware, but could just as easily have been treated by filtering the signal with the microcontroller.
+* How does the phone enclosure lock itself? --> For prototyping, the enclosure was a simple box. A simple servo was mounted on the underside of the box's lid using a 3d-printed bracket that could be superglued to the box without risk of bricking the servo. A second 3d-printed lip was used as a point for the servo to hook under when locked, preventing the lid from opening.
