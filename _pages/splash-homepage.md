@@ -16,20 +16,21 @@ intro:
   - excerpt: 'Third-year undergraduate with a strong focus in dynamical systems, control theory, and vehicle dynamics. Experienced in simulation, data-driven modeling, and hands-on integration through Formula SAE.'
 feature_row:
   - image_path: assets/images/home-portfolio-image-1-th.jpg
+    image_caption: "My student and I assembling and debugging project electronics."
     alt: ""
     title: ""
     excerpt: ""
   - image_path: /assets/images/home-portfolio-image-2-th.jpg
-    image_caption: ""
+    image_caption: "The GR26 Formula SAE car at Willow Springs International Raceway."
     alt: ""
     title: ""
     excerpt: ""
-    url: "portfolio/"
-    btn_label: "My Portfolio"
-    btn_class: "btn--primary"
   - image_path: 
     title: "Past Projects"
     excerpt: "Check out some of my work here!"
+    url: "portfolio/"
+    btn_label: "Portfolio"
+    btn_class: "btn--primary"
 feature_row2:
   - image_path: /assets/images/home-current-work.jpg
     alt: "placeholder image 2"
