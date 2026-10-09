@@ -1,6 +1,9 @@
 ---
 title: "Screen Time Regulator"
-
+excerpt: "Study tool developed and rapidly prototyped for college students."
+header:
+  image: /assets/images/me-ten-irl.jpg
+  teaser: assets/images/me-ten-cad.jpg
 gallery:
   - url: /assets/images/me-ten-sketch.jpg
     image_path: /assets/images/me-ten-sketch.jpg
