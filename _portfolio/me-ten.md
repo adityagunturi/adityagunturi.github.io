@@ -8,8 +8,8 @@ gallery:
     title: "First Sketch"
   - url: /assets/images/me-ten-cad.jpg
     image_path: /assets/images/me-ten-cad.jpg
-    alt: "CAD Visualization"
-    title: "Image 2 title caption"
+    alt: "placeholder image 2"
+    title: "CAD Visualization"
   - url: /assets/images/me-ten-all-parts.jpg
     image_path: /assets/images/me-ten-all-parts.jpg
     alt: "placeholder image 3"
